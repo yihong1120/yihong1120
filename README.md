@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently service in **MediaTek**
 
-- 🌱 I’m currently learning **Cloud Computation, LLM**
+- 🌱 I’m currently learning **Cloud Computation, LLM, Computer Vision**
 
 - 💬 Ask me about **Python, Azure, Tensorflow, Pytorch**
 
