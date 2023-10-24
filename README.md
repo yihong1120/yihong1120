@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm YI HUNG, WONG</h1>
 <h3 align="center">An ML/DL engineer from Taiwan.</h3>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yihong1120&label=Profile%20views&color=0e75b6&style=flat" alt="yihong1120" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yihong1120" alt="yihong1120" /></a> </p>
