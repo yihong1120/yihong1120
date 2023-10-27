@@ -1,3 +1,5 @@
+🇬🇧 [English](./README.md) | 🇹🇼 [繁體中文](./README-zh-tw.md) | 🇫🇷 [Français](./README-fr.md)
+
 <h1 align="center">你好 👋，我是 YI HUNG, WONG</h1>
 <h3 align="center">我是來自台灣的 ML/DL 工程師。</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yihong1120&label=個人檔案瀏覽次數&color=0e75b6&style=flat" alt="yihong1120" /> </p>
