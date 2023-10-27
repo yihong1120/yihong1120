@@ -1,6 +1,6 @@
-[🇬🇧 English](URL_TO_ENGLISH_README) 
-[🇹🇼 繁體中文](URL_TO_CHINESE_README) 
-[🇫🇷 Français](URL_TO_FRENCH_README)
+[🇬🇧 English](./README.md) 
+[🇹🇼 繁體中文](./README-zh-tw.md) 
+[🇫🇷 Français](./README-fr.md)
 
 <h1 align="center">Hi 👋, I'm YI HUNG, WONG</h1>
 <h3 align="center">An ML/DL engineer from Taiwan.</h3>
