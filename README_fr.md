@@ -3,13 +3,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yihong1120&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="yihong1120" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yihong1120" alt="yihong1120" /></a> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-🔭 Je travaille actuellement chez MediaTek
 
-🌱 J'apprends actuellement Cloud Computation, LLM, Computer Vision
+- 🔭 Je travaille actuellement chez MediaTek
 
-💬 Demandez-moi à propos de Python, Azure, Tensorflow, Pytorch
+- 🌱 J'apprends actuellement Cloud Computation, LLM, Computer Vision
 
-📫 Comment me joindre: qazsx748596@gmail.com
+- 💬 Demandez-moi à propos de Python, Azure, Tensorflow, Pytorch
+
+- 📫 Comment me joindre: qazsx748596@gmail.com
 
 <h3 align="left">Connectez-vous avec moi :</h3>
 <p align="left">
