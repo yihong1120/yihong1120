@@ -10,7 +10,7 @@
 
 - 🌱 我目前正在學習 Cloud Computation, LLM, Computer Vision
 
-- 💬 關於 Python, Azure, Tensorflow, Pytorch 可以問我
+- 💬 關於 Python, Cloud Computing, Tensorflow, Pytorch 可以問我
 
 - 📫 聯絡我的方式: qazsx748596@gmail.com
 
