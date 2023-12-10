@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Cloud Computation, LLM, Computer Vision**
 
-- 💬 Ask me about **Python, Azure, Tensorflow, Pytorch**
+- 💬 Ask me about **Python, Cloud Computing, Tensorflow, Pytorch**
 
 - 📫 How to reach me **qazsx748596@gmail.com**
 
