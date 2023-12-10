@@ -10,7 +10,7 @@
 
 - 🌱 J'apprends actuellement Cloud Computation, LLM, Computer Vision
 
-- 💬 Demandez-moi à propos de Python, Azure, Tensorflow, Pytorch
+- 💬 Demandez-moi à propos de Python, Cloud Computing, Tensorflow, Pytorch
 
 - 📫 Comment me joindre: qazsx748596@gmail.com
 
